@@ -12,6 +12,3 @@
 2. Use nested for loops to rearrange the names by length
 3. Use nested for loops to remove the names with no spaces and call a sub procedure that makes the last name first, space, then first name
 
-Return last name then first name ordered by length
-Have a list of 10 people, each one is first name and last name separated by space
-Make last name first, then space then first name and order the resulted list by name length
