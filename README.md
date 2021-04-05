@@ -54,4 +54,5 @@ Generate 6 random numbers on Sheet1 using for loops and 2-dimensional arrays
 ## Remove Non Alpha Numeric
 
 Function that removes all non alpha-numerical characters and digits if they are not at the start of the string
+
 For example, "12 3nje dfBS<f    678jk;ji#*AAfnj" should return "123njedfBSfjkjiAAfnj"
