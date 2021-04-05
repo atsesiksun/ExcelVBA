@@ -2,7 +2,7 @@
 
 ## Ascending-Descending Order
 
-1. Take the integer numbers displayed in sheet1 and put into 1-dimensional arrays
+1. Take integer numbers displayed in sheet1 and put into 1-dimensional arrays
 2. Use nested for loops to arrange the integer numbers into ascending/descending orders
 3. Put results back to sheet1.
 
